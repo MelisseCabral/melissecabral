@@ -28,8 +28,6 @@
   <img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
 </span>
 
-<img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
-
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=melissecabral&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=dracula)](https://github.com/melissecabral)
 
 <h3 align="center"> C ⌇ HTML ⌇ CSS ⌇ JavaScript </h3>
