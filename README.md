@@ -12,23 +12,17 @@
   🔭 I’m currently working on ...
   <br>
   🌱 I’m currently learning ...
-    <br>
-
+  <br>
   👯 I’m looking to collaborate on ...
-    <br>
-
+  <br>
   🤔 I’m looking for help with ...
-    <br>
-
+  <br>
   💬 Ask me about ...
-    <br>
-
+  <br>
   📫 How to reach me: ...
-    <br>
-
+  <br>
   😄 Pronouns: ...
-    <br>
-
+  <br>
   ⚡ Fun fact: ... 
 </span>
   <img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
