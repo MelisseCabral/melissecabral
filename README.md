@@ -3,7 +3,7 @@
 <a href="mailto:melissecabral@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 <a href="https://instagram.com/melissecabral"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/melisse-p-cabral-48b963117"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://t.me/melissecabral/"><img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-logoColor=1ca0f1&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/melissecabral/"><img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&logo=appveyorColor=1ca0f1&logo=telegram&logoColor=white"/></a>
 
 <h3>Things I code with</h3>
 <p>
