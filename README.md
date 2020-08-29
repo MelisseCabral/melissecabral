@@ -4,6 +4,7 @@
 <a href="https://instagram.com/melissecabral"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/melisse-p-cabral-48b963117"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://t.me/melissecabral/"><img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&Color=1ca0f1&logo=telegram&logoColor=white"/></a>
+<a href="https://api.whatsapp.com/send?phone=5585999616120&text=Ol%C3%A1"><img src="https://img.shields.io/badge/-WhatsApp-01e675?style=for-the-badge&Color=01e675&logo=whatsapp&logoColor=white"/></a>
 
 <h3>Things I code with</h3>
 <p>
