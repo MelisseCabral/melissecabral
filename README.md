@@ -37,7 +37,7 @@
 
 <a href="https://samujjwaal.tech/"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="300" /></a>
 
-<span align='left'>
+<p align='left'>
   🔭 I’m currently working on ...
   <br>
   🌱 I’m currently learning ...
@@ -53,8 +53,8 @@
   😄 Pronouns: ...
   <br>
   ⚡ Fun fact: ... 
-</span>
-<br>
+</p>
+<hr>
 
 <a align='center' href="https://github.com/melissecabral/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=melissecabral&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=dracula" />
