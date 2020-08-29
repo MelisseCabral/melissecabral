@@ -48,18 +48,14 @@
   <br>
   💻 Fullstack Developer looking for good opportunities where i can improve my skills.
   <br>
-  🧐 I’m currently working on improve my skills on Node.js and React
+  🧐 I’m currently working on improve my skills on Node.js and React.
   <br>
-  🌱 I’m currently learning about Docker and AWS
+  🌱 I’m currently learning about Docker and AWS.
+  <br>
+  <br>
+  <br>
+  <br>
 </p>
-<br>
-<br>
-<br>
-<br>
-
-
-
-
 
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=melissecabral&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=dracula" />
