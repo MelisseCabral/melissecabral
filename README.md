@@ -5,10 +5,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:melissecabral@gmail.com)](mailto:melissecabral@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/melissecabral/)](https://t.me/melissecabral/)
 
+<a href="https://samujjwaal.tech/"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="300" /></a>
 
-  
-<span>
-  <span align='left'>
+<span align='left'>
   🔭 I’m currently working on ...
   <br>
   🌱 I’m currently learning ...
@@ -25,8 +24,7 @@
   <br>
   ⚡ Fun fact: ... 
 </span>
-  <img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
-</span>
+
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=melissecabral&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=dracula)](https://github.com/melissecabral)
 
