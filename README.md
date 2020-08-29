@@ -5,6 +5,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:melissecabral@gmail.com)](mailto:melissecabral@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/melissecabral/)](https://t.me/melissecabral/)
 
+
+  
+<span>
+  <span align='left'>
   🔭 I’m currently working on ...
   
   🌱 I’m currently learning ...
@@ -20,10 +24,7 @@
   😄 Pronouns: ...
   
   ⚡ Fun fact: ... 
-  
-<span>
-
-  
+</span>
   <img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
 </span>
 
