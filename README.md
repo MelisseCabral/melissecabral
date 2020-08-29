@@ -9,6 +9,8 @@
 <h3>Things I code with</h3>
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F8DC3D?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-15C213?style=flat-square&logo=jest&logoColor=white" />
   <img alt="Jquery" src="https://img.shields.io/badge/-Jquery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
@@ -23,8 +25,6 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FBC02D?style=flat-square&logo=firebase&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-e95420?style=flat-square&logo=ubuntu&logoColor=white" />
   
   
