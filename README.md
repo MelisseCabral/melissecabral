@@ -40,6 +40,10 @@
 <a href="https://samujjwaal.tech/"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="250" /></a>
 
 <p align='left'>
+  <br>
+  <br>
+  <br>
+  <br>
   📚 24 years, Brazilian, almost Undergraduated in Computer Enginner.
   <br>
   💻 Fullstack Developer looking for good opportunities where i can improve my skills.
@@ -48,6 +52,8 @@
   <br>
   🌱 I’m currently learning about Docker and AWS
 </p>
+<br>
+<br>
 <br>
 
 
