@@ -1,10 +1,12 @@
-# Hi, I'm Melisse 👋
+<h1 align='center'> Hi, I'm Melisse 👋 </h1>
 
-<a href="mailto:melissecabral@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-<a href="https://instagram.com/melissecabral"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://linkedin.com/in/melisse-p-cabral-48b963117"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://t.me/melissecabral/"><img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&Color=1ca0f1&logo=telegram&logoColor=white"/></a>
-<a href="https://api.whatsapp.com/send?phone=5585999616120&text=Ol%C3%A1"><img src="https://img.shields.io/badge/-WhatsApp-01e675?style=for-the-badge&Color=01e675&logo=whatsapp&logoColor=white"/></a>
+<p align='center'>
+  <a href="mailto:melissecabral@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+  <a href="https://instagram.com/melissecabral"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/melisse-p-cabral-48b963117"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://t.me/melissecabral/"><img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&Color=1ca0f1&logo=telegram&logoColor=white"/></a>
+  <a href="https://api.whatsapp.com/send?phone=5585999616120&text=Ol%C3%A1"><img src="https://img.shields.io/badge/-WhatsApp-01e675?style=for-the-badge&Color=01e675&logo=whatsapp&logoColor=white"/></a>
+</p>
 
 <h3>Things I code with</h3>
 <p>
@@ -38,20 +40,20 @@
 <a href="https://samujjwaal.tech/"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="250" /></a>
 
 <p align='left'>
-  🔭 I’m currently working on ...
+  📚 24 years, Brazilian, almost Undergraduated in Computer Enginner.
   <br>
-  🌱 I’m currently learning ...
+  💻 Fullstack Developer looking for good opportunities where i can improve my skills.
   <br>
-  👯 I’m looking to collaborate on ...
+  🧐 I’m currently working on improve my skills on Node.js and React
   <br>
-  🤔 I’m looking for help with ...
-  <br>
-  💬 Ask me about ...
-  <br>
-  📫 How to reach me: ...
-  <br>
-  😄 Pronouns: ...
-  <br>
-  ⚡ Fun fact: ... 
+  🌱 I’m currently learning about Docker and AWS
 </p>
 <br>
+
+
+
+
+
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=melissecabral&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=dracula" />
+</p>
