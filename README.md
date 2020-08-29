@@ -10,19 +10,25 @@
 <span>
   <span align='left'>
   🔭 I’m currently working on ...
-  
+  <br>
   🌱 I’m currently learning ...
-  
+    <br>
+
   👯 I’m looking to collaborate on ...
-  
+    <br>
+
   🤔 I’m looking for help with ...
-  
+    <br>
+
   💬 Ask me about ...
-  
+    <br>
+
   📫 How to reach me: ...
-  
+    <br>
+
   😄 Pronouns: ...
-  
+    <br>
+
   ⚡ Fun fact: ... 
 </span>
   <img align='right' src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
