@@ -37,7 +37,7 @@
   
 </p>
 
-<a href="https://camo.githubusercontent.com/58151d96855b52518ad312c714ff3713fff228c0/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f68756c615f6c6f6f705f6f63746f64657830332e676966" align="right" height="250" /></a>
+<a href="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/200.webp?cid=ecf05e47fa5ea450ad64d2b02a39140c0fabda4bf45c0dee&rid=200.webp" align="right" height="250" /></a>
 
 <p align='left'>
   <br>
