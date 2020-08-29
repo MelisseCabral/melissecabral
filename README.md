@@ -55,7 +55,3 @@
   ⚡ Fun fact: ... 
 </p>
 <br>
-
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=melissecabral&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=dracula" />
-</p>
