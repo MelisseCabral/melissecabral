@@ -29,6 +29,8 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FBC02D?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-e95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-E90101?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   
   
 </p>
@@ -52,7 +54,8 @@
   <br>
   ⚡ Fun fact: ... 
 </span>
+<br>
 
-
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=melissecabral&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=dracula)](https://github.com/melissecabral)
-
+<a align='center' href="https://github.com/melissecabral/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=melissecabral&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=dracula" />
+</a>
