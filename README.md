@@ -37,7 +37,7 @@
   
 </p>
 
-<a href="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/200.webp?cid=ecf05e47fa5ea450ad64d2b02a39140c0fabda4bf45c0dee&rid=200.webp" align="right" height="250" /></a>
+<img src="https://user-images.githubusercontent.com/9977351/91646545-93599580-ea26-11ea-8499-00be2bfe3a60.gif" align="right" height="250" /></a>
 
 <p align='left'>
   <br>
