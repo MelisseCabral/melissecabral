@@ -38,7 +38,7 @@
   
 </p>
 
-<img src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif" align="right" height="250" /></a>
+<img src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif" align="left" height="250" /></a>
 
 <p align='left'>
   <br>
