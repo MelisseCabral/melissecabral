@@ -38,7 +38,7 @@
   
 </p>
 
-<img src="https://user-images.githubusercontent.com/9977351/91646545-93599580-ea26-11ea-8499-00be2bfe3a60.gif" align="right" height="250" /></a>
+<img src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif" align="right" height="250" /></a>
 
 <p align='left'>
   <br>
@@ -49,7 +49,7 @@
   <br>
   💻  Working has a Fullstack Developer using the mostly the Javascript/Typescript stack in a healthcare company.
   <br>
-  🌱 I’m currently learning about Quality Assurence.
+  🌱 Currently learning about Quality Assurence.
   <br>
   <br>
   <br>
