@@ -45,7 +45,7 @@
   <br>
   <br>
   <br>
-  📚 24 years, Brazilian, almost Undergraduated in Computer Enginner.
+  📚 25 years, Brazilian, almost Undergraduated in Computer Enginner.
   <br>
   💻  Working has a Fullstack Developer using the mostly the Javascript/Typescript stack in a healthcare company.
   <br>
