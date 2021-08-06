@@ -37,12 +37,8 @@
   
 </p>
 
-<img src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif" align="left" height="250" /></a>
-
 <p align='left'>
-  <br>
-  <br>
-  <br>
+
   <br>
   📚 25 years, Brazilian, almost Undergraduated in Computer Enginner.
   <br>
@@ -56,6 +52,6 @@
   <br>
 </p>
 
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=melissecabral&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=dracula" />
-</p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=melissecabral&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=dracula" />
+<a href="https://www.credly.com/badges/ff7d4cf1-26a8-4345-aecb-eb92f85ea922/public_url"><img src="https://user-images.githubusercontent.com/9977351/128512634-0fc30790-9d6e-4226-accf-b9774b1b0003.png" align="left" /></a>
+
