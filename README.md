@@ -44,7 +44,7 @@
   <br>
   💻  Working has a Fullstack Developer using the mostly the Javascript/Typescript stack in a healthcare company.
   <br>
-  🌱 Currently learning about Quality Assurence.
+  🌱 Currently learning about Reactive Architecture.
   <br>
   <br>
   <br>
