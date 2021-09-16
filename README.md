@@ -44,7 +44,7 @@
   <br>
   💻  Working has a software engineer at Instituto Atlântico.
   <br>
-  🌱 Currently learning about Reactive Architecture.
+  🌱 Currently learning about Reactive Architecture, AWS and some DevOps Tools.
   <br>
   <br>
   <br>
