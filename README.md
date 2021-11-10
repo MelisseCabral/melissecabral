@@ -42,7 +42,7 @@
   <br>
   📚 25 years, Brazilian, almost Undergraduated in Computer Enginner.
   <br>
-  💻  Working has a Fullstack web developer.
+  💻  Working as a Fullstack web developer.
   <br>
   🌱 Currently learning about Reactive Architecture, AWS and some DevOps Tools.
   <br>
