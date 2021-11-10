@@ -7,7 +7,7 @@
   <a href="https://api.whatsapp.com/send?phone=5585999616120&text=Ol%C3%A1"><img src="https://img.shields.io/badge/-WhatsApp-01e675?style=for-the-badge&Color=01e675&logo=whatsapp&logoColor=white"/></a>
 </p>
 
-<h3>Things I code with</h3>
+## Things I code with
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F8DC3D?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-46a2f1?style=flat-square&logo=typescript&logoColor=white" />
@@ -33,29 +33,25 @@
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-e95420?style=flat-square&logo=ubuntu&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-E90101?style=flat-square&logo=java&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  
-  
 </p>
 
-<p align='left'>
+### About me
+📚 25 years, Brazilian, pursuing a Bachelor degree in Computer Enginner.
 
-  <br>
-  📚 25 years, Brazilian, almost Undergraduated in Computer Enginner.
-  <br>
-  💻  Working as a Fullstack web developer.
-  <br>
-  🌱 Currently learning about Reactive Architecture, AWS and some DevOps Tools.
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
+💻  Working as a Fullstack web developer and Software Enginner.
+
+🌱 Currently learning about Reactive Architecture, AWS and some DevOps Tools.
+
+
+<p>
+  <img align="left" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=melissecabral&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=dracula" /> 
+  <img align="left" height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissecabral&layout=compact&langs_count=7&theme=dracula" />
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=melissecabral&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=dracula" />
+  
+  ## Badges
+  <a href="https://www.credly.com/badges/ff7d4cf1-26a8-4345-aecb-eb92f85ea922/public_url"><img src="https://user-images.githubusercontent.com/9977351/141176988-d0424fff-7c48-4752-b535-6fe8e8a65b0a.png" align="left" /></a>
 
-<a href="https://www.credly.com/badges/ff7d4cf1-26a8-4345-aecb-eb92f85ea922/public_url"><img src="https://user-images.githubusercontent.com/9977351/141176988-d0424fff-7c48-4752-b535-6fe8e8a65b0a.png" align="left" /></a>
+  <a href="https://www.credly.com/badges/8063fb0f-de08-4632-9892-681497779836/public_url"><img src="https://user-images.githubusercontent.com/9977351/141176868-d53b9b76-1c2c-452e-bc48-17d20f7f1382.png" align="left" /></a>
 
-<a href="https://www.credly.com/badges/8063fb0f-de08-4632-9892-681497779836/public_url"><img src="https://user-images.githubusercontent.com/9977351/141176868-d53b9b76-1c2c-452e-bc48-17d20f7f1382.png" align="left" /></a>
-
-<a href="https://www.credly.com/badges/e0e81b30-203a-49f4-9380-3f01b2fe305c/public_url"><img src="https://user-images.githubusercontent.com/9977351/141177170-07714be2-59c7-4f1f-a3e7-a422c527a56d.png" align="left" /></a>
+  <a href="https://www.credly.com/badges/e0e81b30-203a-49f4-9380-3f01b2fe305c/public_url"><img src="https://user-images.githubusercontent.com/9977351/141177170-07714be2-59c7-4f1f-a3e7-a422c527a56d.png" align="left" /></a>
