@@ -1,13 +1,28 @@
+
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" />
 <h1 align='center'> Hi, I'm Melisse 👋 </h1>
 
 <p align='center'>
-  <a href="mailto:melissecabral@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/melisse-p-cabral-48b963117"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://t.me/melissecabral/"><img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&Color=1ca0f1&logo=telegram&logoColor=white"/></a>
-  <a href="https://api.whatsapp.com/send?phone=5585999616120&text=Ol%C3%A1"><img src="https://img.shields.io/badge/-WhatsApp-01e675?style=for-the-badge&Color=01e675&logo=whatsapp&logoColor=white"/></a>
+  <a href="mailto:melissecabral@gmail.com">
+    <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/melisse-p-cabral-48b963117">
+    <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://t.me/melissecabral/">
+    <img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&Color=1ca0f1&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5585999616120&text=Ol%C3%A1">
+    <img src="https://img.shields.io/badge/-WhatsApp-01e675?style=for-the-badge&Color=01e675&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
+
+
 ## Things I code with
+
+
+
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F8DC3D?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-46a2f1?style=flat-square&logo=typescript&logoColor=white" />
@@ -44,14 +59,19 @@
 
 
 <p>
-  <img align="left" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=melissecabral&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=dracula" /> 
-  <img align="left" height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissecabral&layout=compact&langs_count=7&theme=dracula" />
-</p>
-
+    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=melissecabral&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=dracula" /> 
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissecabral&layout=compact&langs_count=7&theme=dracula"/>
   
-  ## Badges
-  <a href="https://www.credly.com/badges/ff7d4cf1-26a8-4345-aecb-eb92f85ea922/public_url"><img src="https://user-images.githubusercontent.com/9977351/141176988-d0424fff-7c48-4752-b535-6fe8e8a65b0a.png" align="left" /></a>
+</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-  <a href="https://www.credly.com/badges/8063fb0f-de08-4632-9892-681497779836/public_url"><img src="https://user-images.githubusercontent.com/9977351/141176868-d53b9b76-1c2c-452e-bc48-17d20f7f1382.png" align="left" /></a>
-
-  <a href="https://www.credly.com/badges/e0e81b30-203a-49f4-9380-3f01b2fe305c/public_url"><img src="https://user-images.githubusercontent.com/9977351/141177170-07714be2-59c7-4f1f-a3e7-a422c527a56d.png" align="left" /></a>
+##### Inspired by <a href="https://github.com/engenny/engenny" target="_blank">Engenny</a>
