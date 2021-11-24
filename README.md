@@ -57,12 +57,6 @@
 
 🌱 Currently learning about Reactive Architecture, AWS and some DevOps Tools.
 
-
-<p>
-    <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=melissecabral&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=dracula" /> 
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissecabral&layout=compact&langs_count=7&theme=dracula"/>
-  
-</p>
 <br>
 <br>
 <br>
