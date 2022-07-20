@@ -1,5 +1,3 @@
-
-<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" />
 <h1 align='center'> Hi, I'm Melisse 👋 </h1>
 
 <p align='center'>
@@ -62,10 +60,3 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-##### Inspired by <a href="https://github.com/engenny/engenny" target="_blank">Engenny</a>
