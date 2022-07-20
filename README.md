@@ -49,7 +49,7 @@
 </p>
 
 ### About me
-📚 25 years, Brazilian, pursuing a Bachelor degree in Computer Enginner.
+📚 26 years, Brazilian, pursuing a Bachelor degree in Computer Enginner.
 
 💻  Working as a Fullstack web developer and Software Enginner.
 
