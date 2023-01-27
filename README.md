@@ -51,7 +51,7 @@
 ### About me
 📚 26 years, Brazilian, pursuing a Bachelor degree in Computer Enginner.
 
-💻  Working as a Fullstack web developer and Software Enginner.
+💻  Working as Software Enginner.
 
 🌱 Currently learning about Reactive Architecture, AWS and some DevOps Tools.
 
