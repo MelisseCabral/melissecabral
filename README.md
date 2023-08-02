@@ -49,14 +49,34 @@
 </p>
 
 ### About me
-📚 26 years, Brazilian, pursuing a Bachelor degree in Computer Enginner.
-
-💻  Working as Software Enginner.
-
-🌱 Currently learning about Reactive Architecture, AWS and some DevOps Tools.
-
+I'm a Senior Software Engineer specializing in Javascript/Typescript, React.js, React Native, Express.js, and native iOS app development with Swift. With my AWS Certified Cloud Practitioner credentials, I have extensive expertise in developing and maintaining cloud-based solutions.
+<br>
+<br>
+Over the years, I've honed my skills across a variety of applications and platforms, from building native iOS apps to developing sophisticated web applications. My experience in software architecture and full-stack development has allowed me to contribute to projects of all sizes and complexities.
+<br>
+<br>
+🛠️ My tech stack:
+<br>
+<br>
+Front-end: Javascript/Typescript, React.js, React Native
+<br>
+Back-end: Node.js, Express.js, Swift, C#, Python
+<br>
+Databases: PostgreSQL, PL/SQL, MongoDB, Firebase
+<br>
+Cloud: AWS, Docker, Git, Azure
+<br>
+Other: UIKit, SwiftUI, Figma, Jest, Cypress
+<br>
+<br>
+💼 I've had the opportunity to work with reputable companies such as Banco do Brasil, Neurogram, and LIV Saúde, contributing to meaningful projects and broadening my professional expertise.
+<br>
+<br>
+🎓 Currently pursuing an Associate Degree in Systems Development Analyst and Cloud Computing.
+<br>
+<br>
+🔍 I am always on the lookout for new challenges and opportunities to grow and expand my skill set. If you're interested in collaboration or just want to chat, feel free to get in touch!
 <br>
 <br>
 <br>
-<br>
-<br>
+📫 You can reach me at melissecabral@gmail.com
