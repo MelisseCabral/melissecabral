@@ -72,8 +72,6 @@ Other: UIKit, SwiftUI, Figma, Jest, Cypress
 💼 I've had the opportunity to work with reputable companies such as Banco do Brasil, Neurogram, and LIV Saúde, contributing to meaningful projects and broadening my professional expertise.
 <br>
 <br>
-🎓 Currently pursuing an Associate Degree in Systems Development Analyst and Cloud Computing.
-<br>
 <br>
 🔍 I am always on the lookout for new challenges and opportunities to grow and expand my skill set. If you're interested in collaboration or just want to chat, feel free to get in touch!
 <br>
