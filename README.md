@@ -69,7 +69,7 @@ Cloud: AWS, Docker, Git, Azure
 Other: UIKit, SwiftUI, Figma, Jest, Cypress
 <br>
 <br>
-💼 I've had the opportunity to work with reputable companies such as Banco do Brasil, Neurogram, and LIV Saúde, contributing to meaningful projects and broadening my professional expertise.
+💼 I've had the opportunity to work with reputable companies such as HP, Banco do Brasil, Neurogram, and LIV Saúde, contributing to meaningful projects and broadening my professional expertise.
 <br>
 <br>
 <br>
